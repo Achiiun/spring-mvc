@@ -1,5 +1,4 @@
 package hello.servlet.basic.request;
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
